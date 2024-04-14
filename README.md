@@ -15,11 +15,11 @@
  
  ## My projects (DEMO)
  
-💲 <a href="https://sinxenon.github.io/currency-converter/">Currency Converter</a> — currency charts, minor unit value support, SPA routing, carousel, third-party API & libraries, responsive design, dark/light theme
+💲 <a href="https://yanag4.github.io/currency-converter/">Currency Converter</a> — currency charts, minor unit value support, SPA routing, carousel, third-party API & libraries, responsive design, dark/light theme
   
  📅 <a href="https://yanag4.github.io/public-holiday-calendar/">Public Holiday Calendar</a> — big calendar, Material UI, semi-commercial, responsive design, design created from scratch, [![codecov](https://codecov.io/gh/YanaG4/public-holiday-calendar/graph/badge.svg?token=QJOE28PS84)](https://codecov.io/gh/YanaG4/public-holiday-calendar)
   
- 🔍 <a href="https://sinxenon.github.io/demands-search/">Demands Search</a> — Material UI with custom styles, responsive design, user-friendly UX
+ 🔍 <a href="https://yanag4.github.io/demands-search/">Demands Search</a> — Material UI with custom styles, responsive design, user-friendly UX
   
  🕔 <a href="https://your-timer-hub-rtuu7.ondigitalocean.app/">Your Timer Hub</a> — drag & drop, prevent setTimeOut from freezing while inactive, sound effects, animations, design created from scratch, responsive design, hosted on Digital Ocean, <i>(ongoing project)</i>
  
